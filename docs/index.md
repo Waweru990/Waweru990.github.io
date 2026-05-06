@@ -53,7 +53,8 @@ I am passionate about bridging the gap between raw spatial data and strategic de
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/images/[John-CV.pdf){ .md-button }
+[Download CV :material-download:](docs/assets/images/John-CV.pdf){ .md-button }
+
 
 
 ---
