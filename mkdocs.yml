@@ -7,7 +7,7 @@ site_name: "John's - Geospatial Portfolio"
 site_description: "Portfolio of John's — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "John Waweru"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-# site_url: "https://Waweru990.github.io/"
+# site_url:"https://Waweru990.github.io/"
 
 theme:
   name: material
@@ -60,10 +60,10 @@ copyright: "Copyright &copy; [YOUR NAME]"
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[Waweru990]
-    - icon: fontawesome/brands/linkedin
-    #  link: https://linkedin.com/in/]
-    #- icon: material/email
+      link: https://github.com/Waweru990
+    - icon: www.linkedin.com/in/john-waweru-91947995
+      link: https://linkedin.com/in/]
+    - icon: material/email
       link: mailto:[wawerujohn10@outlook.de]
 
 
