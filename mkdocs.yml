@@ -60,9 +60,9 @@ copyright: "Copyright &copy; [YOUR NAME]"
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Waweru990
-    - icon: www.linkedin.com/in/john-waweru-91947995
-      link: https://linkedin.com/in/]
+    #  link: https://github.com/Waweru990
+    #- icon: www.linkedin.com/in/john-waweru-91947995
+    #  link: https://linkedin.com/in/]
     - icon: material/email
       link: mailto:[wawerujohn10@outlook.de]
 
