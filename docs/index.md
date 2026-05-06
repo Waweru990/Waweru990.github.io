@@ -21,7 +21,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="John Waweru" class="profile-photo">
   <h1>John Waweru</h1>
   <p><strong>Softwareentwickler</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><em>Geospatial Data Scientist | Python, Google Earth Engine & GeoAI Enthusiast</em></p>
 </div>
 
 ---
@@ -53,7 +53,7 @@ I am passionate about bridging the gap between raw spatial data and strategic de
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[John-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/images/[John-CV.pdf){ .md-button }
 
 
 ---
