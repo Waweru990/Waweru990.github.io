@@ -4,8 +4,8 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
+- [ ] Replace John Waweru with your full name (3 places)
+- [ ] Replace John Waweru with your current or target role
 - [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
 - [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
@@ -18,7 +18,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.png" alt="John Waweru" class="profile-photo">
   <h1>[YOUR NAME]</h1>
   <p><strong>[YOUR JOB TITLE]</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
@@ -39,7 +39,7 @@ I am a geospatial data scientist with a background in remote sensing and machine
 I work on extracting actionable insights from satellite imagery and large spatial datasets
 using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
 GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+planning. I am currently seeking opportunities in Geomatics in Bonn.
 
 </div>
 
@@ -52,7 +52,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/[John-CV.pdf){ .md-button }
 
 
 ---
