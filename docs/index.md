@@ -31,15 +31,16 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in Geomatics in Bonn.
+I am an analytically-minded Geospatial Data Scientist with over 8 years of international experience specializing in **Topographic Information Management and Remote Sensing**. Currently supporting the **TIM-NRW** system for the Cologne District Government, I focus on ensuring high-precision data quality and optimizing geospatial workflows.  My background spans academic research with the **German Aerospace Center (DLR)** and large-scale industrial projects, including mapping Africa's largest wind park and the Standard Gauge Railway. I specialize in:  
+
+-   **Extracting actionable insights** from satellite imagery and LIDAR data to support climate monitoring and infrastructure development. 
+-   **Building automated workflows** using Python (NumPy, Pandas, GeoPandas) and cloud-based analysis via Google Earth Engine.
+-   **Applying GeoAI and Machine** Learning for land-use classification and environmental risk assessment.
+
+I am passionate about bridging the gap between raw spatial data and strategic decision-making in land-use planning and environmental protection.  
+
+**Let’s connect to discuss GeoAI, spatial automation, or collaborative GIS projects.**
 
 </div>
 
