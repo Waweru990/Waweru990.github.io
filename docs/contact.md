@@ -21,9 +21,9 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
+| :material-email: **Email** | [your-email@example.com](mailto:wawerujohn10@outlook.de) |
+| :fontawesome-brands-github: **GitHub** | github.com/Waweru990 (https://github.com/Waweru990) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/john-waweru-91947995](https://linkedin.com/in/john-waweru-91947995) |
 | :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
 
 ---
