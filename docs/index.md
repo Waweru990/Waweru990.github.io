@@ -111,8 +111,6 @@ I am passionate about bridging the gap between raw spatial data and strategic de
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
 </div>
 
