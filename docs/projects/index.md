@@ -18,14 +18,14 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/project1-cover.png)
 
 **[Sample Project](sample-project.md)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Google Earth Engine` `Python` `Javascript`
 
 [View Project →](sample-project.md){ .md-button }
 </div>
