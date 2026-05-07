@@ -32,7 +32,9 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-text" markdown>
 
 
-I am an analytically-minded Geospatial Data Scientist with over 8 years of international experience specializing in **Topographic Information Management and Remote Sensing**. Currently supporting the **TIM-NRW** system for the Cologne District Government, I focus on ensuring high-precision data quality and optimizing geospatial workflows.  My background spans academic research with the **German Aerospace Center (DLR)** and large-scale industrial projects, including mapping Africa's largest wind park and the Standard Gauge Railway. I specialize in:  
+I am an analytically-minded Geospatial Data Scientist with over 8 years of international experience specializing in **Topographic Information Management and Remote Sensing**. Currently supporting the **TIM-NRW** system for the Cologne District Government, I focus on ensuring high-precision data quality and optimizing geospatial workflows.  My background spans academic research with the **German Aerospace Center (DLR)** and large-scale industrial projects, including mapping Africa's largest wind park and the Standard Gauge Railway. 
+
+I specialize in:  
 
 -   **Extracting actionable insights** from satellite imagery and LIDAR data to support climate monitoring and infrastructure development. 
 -   **Building automated workflows** using Python (NumPy, Pandas, GeoPandas) and cloud-based analysis via Google Earth Engine.
