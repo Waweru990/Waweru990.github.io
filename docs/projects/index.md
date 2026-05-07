@@ -20,14 +20,14 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/project1-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[Locust_Project](locust-project.md)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
 `Google Earth Engine` `Python` `Javascript`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](locust-project.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
