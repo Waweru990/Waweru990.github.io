@@ -9,4 +9,4 @@ This is the repository for my portfolio website. The portfolio is hosted at http
 * GitHub Actions
 
 > [!TIP]
-> You can get the portfolio template from [John Waweru](https://waweru990.github.io/)
+> You can view my portfolio template from [here](https://waweru990.github.io/)
