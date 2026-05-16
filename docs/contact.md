@@ -21,10 +21,9 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [mailto:wawerujohn10@outlook.de] |
-| :fontawesome-brands-github: **GitHub** (https://https://waweru990.github.io/) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/john-waweru-91947995] |
-#| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-#PROFILE(https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [wawerujohn10@outlook.de](mailto:wawerujohn10@outlook.de) |
+| :fontawesome-brands-github: **GitHub** | [waweru990.github.io](https://waweru990.github.io/) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/john-waweru-91947995](https://www.linkedin.com/in/john-waweru-91947995) |
 
 ---
 
